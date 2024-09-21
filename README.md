@@ -1,4 +1,4 @@
 # shikvitha
-This is my first git repository
+This is my first Git Repository
 <br>
-author-jonnalagadda shikvitha
+Author-Jonnalagadda Shikvitha
